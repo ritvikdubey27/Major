@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
-    String msgData = "";
+    String  msgData = "";
     ListView lv;
     ListView lv1;
     ListView lv2;
