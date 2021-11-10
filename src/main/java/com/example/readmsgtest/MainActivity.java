@@ -24,7 +24,7 @@ import java.util.Date;
 public class MainActivity extends AppCompatActivity {
     String msgData = "";
     ListView lv;
-    ListView lv1;
+    ListView lv1 ;
     ListView lv2;
     ArrayList<String> lst=new ArrayList<>();
     ArrayAdapter<String>adapter;
